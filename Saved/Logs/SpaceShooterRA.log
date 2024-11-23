@@ -5486,3 +5486,126 @@ Sampler Limit: 32
 [2024.11.23-17.11.23:981][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
 [2024.11.23-17.11.24:071][335]LogPlayLevel: Display: Destroying online subsystem :Context_45
 [2024.11.23-17.11.35:961][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.11.23-17.16.04:836][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6609.446289
+[2024.11.23-17.16.05:837][748]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.23-17.16.05:837][748]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6610.115234, Update Interval: 323.760498
+[2024.11.23-17.20.05:913][406]LogSlate: Window 'Save Asset As' being destroyed
+[2024.11.23-17.20.07:895][461]LogSlate: Window 'IMC_Player' being destroyed
+[2024.11.23-17.20.07:900][461]LogSlate: Window 'IMC_Player' being destroyed
+[2024.11.23-17.20.07:904][461]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.23-17.20.07:904][461]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-17.20.08:000][461]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.11.23-17.22.25:987][593]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6990.594238
+[2024.11.23-17.22.26:985][596]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.23-17.22.26:985][596]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6991.255859, Update Interval: 313.286530
+[2024.11.23-17.24.26:671][955]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: fe7...e32
+[2024.11.23-17.24.26:671][955]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.92 RefreshExpires: 1.554e+07
+[2024.11.23-17.24.27:683][958]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: fe7...e32 Access[Expires: 2024.11.23-19.24.24 Remaining: 7200.80] Refresh[Expires: 2025-05-22T13:48:18.448Z Remaining: 15539034.45] State: Valid
+[2024.11.23-17.25.49:257][465]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.23-17.25.49:266][465]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.23-17.25.49:278][466]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.23-17.25.53:678][819]LogContentBrowser: Attempting asset rename: NewFolder -> Players
+[2024.11.23-17.25.53:678][819]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.23-17.26.12:128][553]LogSlate: Window 'Message' being destroyed
+[2024.11.23-17.26.12:133][553]Message dialog closed, result: Ok, title: Message, text: Source code, config INI, and text files may need Find/Replace for:
+
+
+BP_Player
+
+Otherwise assets can be missing from cooked builds. Continue with rename?
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.BP_Player_C' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.SKEL_BP_Player_C' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.BP_Player:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.BP_Player:EventGraph.K2Node_Event_0' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.BP_Player:EventGraph.K2Node_Event_1' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.BP_Player:EventGraph.K2Node_Event_2' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.BP_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.SKEL_BP_Player_C:UserConstructionScript' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.SKEL_BP_Player_C:ReceiveTick' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:140][553]LogMetaData: Removing '/Game/00_SpaceShooter/Players/BP_Player.SKEL_BP_Player_C:ReceiveBeginPlay' ref from Metadata '/Game/00_SpaceShooter/Blueprints/BP_Player.PackageMetaData'
+[2024.11.23-17.26.12:160][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.23-17.26.12:162][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00_SpaceShooter/Players/BP_Player] ([2] browsable assets)...
+[2024.11.23-17.26.12:162][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/00_SpaceShooter/Players/BP_Player]
+[2024.11.23-17.26.12:168][553]LogSavePackage: Moving output files for package: /Game/00_SpaceShooter/Players/BP_Player
+[2024.11.23-17.26.12:168][553]LogSavePackage: Moving '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Saved/BP_PlayerE09B010746022BDEE102B48D9951D4C6.tmp' to '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Content/00_SpaceShooter/Players/BP_Player.uasset'
+[2024.11.23-17.26.12:177][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00_SpaceShooter/Blueprints/BP_Player] ([5] browsable assets)...
+[2024.11.23-17.26.12:177][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/00_SpaceShooter/Blueprints/BP_Player]
+[2024.11.23-17.26.12:178][553]LogSavePackage: Moving output files for package: /Game/00_SpaceShooter/Blueprints/BP_Player
+[2024.11.23-17.26.12:179][553]LogSavePackage: Moving '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Saved/BP_Player7DD641A847DC10FF2C48879F88E024A3.tmp' to '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Content/00_SpaceShooter/Blueprints/BP_Player.uasset'
+[2024.11.23-17.26.12:183][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 21.295 ms (total: 2.57 sec)
+[2024.11.23-17.26.12:203][553]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.11.23-17.26.12:203][553]LogContentValidation: Display: Starting to validate 4 assets
+[2024.11.23-17.26.12:203][553]LogContentValidation: Enabled validators:
+[2024.11.23-17.26.12:203][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2024.11.23-17.26.12:203][553]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.11.23-17.26.12:203][553]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.11.23-17.26.12:203][553]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2024.11.23-17.26.12:203][553]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.11.23-17.26.12:203][553]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2024.11.23-17.26.12:203][553]AssetCheck: /Game/00_SpaceShooter/Players/BP_Player Validating asset
+[2024.11.23-17.26.12:203][553]AssetCheck: /Game/00_SpaceShooter/Blueprints/BP_Player Validating asset
+[2024.11.23-17.26.12:203][553]AssetCheck: /Game/00_SpaceShooter/Blueprints/BP_Player Validating asset
+[2024.11.23-17.26.12:204][553]AssetCheck: /Game/00_SpaceShooter/Blueprints/BP_Player Validating asset
+[2024.11.23-17.26.15:333][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.11.23-17.26.15:343][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/00_SpaceShooter/Maps/MainMap_Auto5
+[2024.11.23-17.26.15:343][851]LogSavePackage: Moving '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Saved/MainMap_Auto5BAE2CDA54A5D4E55546CC2B416FF112F.tmp' to '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Saved/Autosaves/Game/00_SpaceShooter/Maps/MainMap_Auto5.umap'
+[2024.11.23-17.26.15:344][851]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/00_SpaceShooter/Maps/MainMap' took 0.063
+[2024.11.23-17.26.15:344][851]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2024.11.23-17.26.15:344][851]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00_SpaceShooter/SS_GameMode] ([2] browsable assets)...
+[2024.11.23-17.26.15:344][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/00_SpaceShooter/SS_GameMode]
+[2024.11.23-17.26.15:347][851]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/00_SpaceShooter/SS_GameMode_Auto5
+[2024.11.23-17.26.15:348][851]LogSavePackage: Moving '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Saved/SS_GameMode_Auto551ABE62A445D12C05AAD19ABE54CE6AA.tmp' to '../../../../../../Users/RobertoA/Documents/Unreal Projects/SpaceShooterRA/Saved/Autosaves/Game/00_SpaceShooter/SS_GameMode_Auto5.uasset'
+[2024.11.23-17.26.15:348][851]LogFileHelpers: Auto-saving content packages took 0.004
+[2024.11.23-17.26.17:615][ 35]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.23-17.26.17:620][ 35]LogPlayLevel: [PlayLevel] Compiling MainMap before play...
+[2024.11.23-17.26.17:673][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.11.23-17.26.17:674][ 35]LogPlayLevel: PlayLevel: Blueprint regeneration took 54 ms (1 blueprints)
+[2024.11.23-17.26.17:675][ 35]LogPlayLevel: Creating play world package: /Game/00_SpaceShooter/Maps/UEDPIE_0_MainMap
+[2024.11.23-17.26.17:676][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001706s)
+[2024.11.23-17.26.17:676][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/00_SpaceShooter/Maps/MainMap.MainMap to /Game/00_SpaceShooter/Maps/UEDPIE_0_MainMap.MainMap (0.001741s)
+[2024.11.23-17.26.17:696][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.11.23-17.26.17:697][ 35]LogChaosDD: Creating Chaos Debug Draw Scene for world MainMap
+[2024.11.23-17.26.17:699][ 35]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2024.11.23-17.26.17:700][ 35]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.23-17.26.17:700][ 35]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.23-17.26.17:700][ 35]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.23-17.26.17:700][ 35]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.23-17.26.17:700][ 35]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.23-17.26.17:700][ 35]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.23-17.26.17:704][ 35]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.23-17.26.17:719][ 35]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2024.11.23-17.26.17:720][ 35]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.23-17.26.17:720][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.23-17.26.17:720][ 35]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.23-17.26.17:720][ 35]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.11.23-17.26.17:720][ 35]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2024.11.23-17.26.17:724][ 35]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.11.23-17.26.17:724][ 35]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.11.23-17.26.17:724][ 35]LogInit: FAudioDevice initialized with ID 31.
+[2024.11.23-17.26.17:724][ 35]LogAudio: Display: Audio Device (ID: 31) registered with world 'MainMap'.
+[2024.11.23-17.26.17:724][ 35]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.11.23-17.26.17:745][ 35]LogLoad: Game class is 'SS_GameMode_C'
+[2024.11.23-17.26.17:746][ 35]LogWorld: Bringing World /Game/00_SpaceShooter/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 0) at 2024.11.23-12.26.17
+[2024.11.23-17.26.17:746][ 35]LogWorld: Bringing up level for play took: 0.000833
+[2024.11.23-17.26.17:748][ 35]LogOnline: OSS: Created online subsystem instance for: :Context_46
+[2024.11.23-17.26.17:750][ 35]PIE: Server logged in
+[2024.11.23-17.26.17:751][ 35]PIE: Play in editor total start time 0.132 seconds.
+[2024.11.23-17.26.31:568][650]LogSlate: Window 'Blueprint Debugger' being destroyed
+[2024.11.23-17.26.33:923][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-17.26.33:923][923]LogWorld: BeginTearingDown for /Game/00_SpaceShooter/Maps/UEDPIE_0_MainMap
+[2024.11.23-17.26.33:924][923]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.23-17.26.33:924][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-17.26.33:927][923]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.23-17.26.33:933][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.23-17.26.33:957][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.23-17.26.33:957][923]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.11.23-17.26.33:957][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.11.23-17.26.33:960][923]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.11.23-17.26.33:967][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.11.23-17.26.34:043][924]LogPlayLevel: Display: Destroying online subsystem :Context_46
